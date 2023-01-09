@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "I love going to the beach and feeling the sand between my toes. The sound of the waves crashing against the shore is so calming and relaxing. I always bring a book to read and a frisbee to throw around. The best part of going to the beach is taking a dip in the cool, refreshing water. There's nothing like it on a hot summer day."

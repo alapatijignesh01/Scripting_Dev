@@ -1,1 +1,4 @@
-Hi, please raise the certification course by following given path- My HCL – Concur – click on expense tab -create new expense report - select education – click on sub category- Education-once all details are submitted and new report is created – you need to click on add expense -select the specialized Expense for certification course and fill all details and submit report.. If you are acing any other issue so please provide error snapshot so that we can assist you.Thanks 
+#!/bin/bash
+echo "Hi, please raise the certification course by following given path- My HCL – Concur – click on expense tab -create new expense report - select education – click on sub category- Education-once all details are submitted "
+echo "and new report is created – you need to click on add expense -select the specialized Expense for certification course and fill all details and submit report.."
+echo " If you are acing any other issue so please provide error snapshot so that we can assist you.Thanks "

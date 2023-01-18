@@ -1,0 +1,17 @@
+Good evening Nagarjun 
+
+
+About today work status 
+
+
+NAME	TODAY WORK STATUS(18-01-2023)
+
+
+SRAVANTHITANGUTUR		installed plugins on jenkins connect the kubernates server to the jenkins prepared afreestyle project and build successfully
+
+
+ALAPTI JIGNESH			installed the Docker in ec2 instance and pulled a ubuntu image with the command.
+
+
+		Thanks and regards 
+		Sravanthi tangutur
